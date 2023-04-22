@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mini-info-github/static/css/main.18e4948d.css",
+    "main.js": "/mini-info-github/static/js/main.eb255561.js",
+    "static/media/edit-icon.svg": "/mini-info-github/static/media/edit-icon.c3e1e6d138e1c24edf3c4bbacfb11e97.svg",
+    "static/media/watchers.svg": "/mini-info-github/static/media/watchers.3256df500e679d5ab4b2a95a78b1a2b8.svg",
+    "static/media/btn-search.svg": "/mini-info-github/static/media/btn-search.4d06551ba8eba13318000134ad00aaa2.svg",
+    "static/media/stars.svg": "/mini-info-github/static/media/stars.7463c3e75478fcb621e277b8902fcffb.svg",
+    "static/media/btn-close-notify.svg": "/mini-info-github/static/media/btn-close-notify.0c83d795511d8d5078f6559d62ab1d35.svg",
+    "static/media/btn-delete.svg": "/mini-info-github/static/media/btn-delete.b4fc31694a3cc9b9e82d419a4c285d4d.svg",
+    "index.html": "/mini-info-github/index.html",
+    "main.18e4948d.css.map": "/mini-info-github/static/css/main.18e4948d.css.map",
+    "main.eb255561.js.map": "/mini-info-github/static/js/main.eb255561.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e4948d.css",
+    "static/js/main.eb255561.js"
+  ]
+}
