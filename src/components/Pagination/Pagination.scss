@@ -1,0 +1,18 @@
+.pagination-block {
+  display: flex;
+  align-items: center;
+  margin-bottom: 25px;
+  &__list-item:not(:last-child) {
+    margin-right: 20px;
+  }
+}
+
+.pagination {
+  margin: 0;
+}
+
+.begin-state {
+  position: fixed;
+  width: 80%;
+  bottom: 0;
+}

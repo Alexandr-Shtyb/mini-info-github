@@ -1,0 +1,30 @@
+@import "components/App/App";
+@import "components/Serach/Search";
+@import "components/CardList/CardList";
+@import "components/Pagination/Pagination";
+@import "components/Notification/Notification";
+@import "components/Select/Select";
+@import "~bootstrap";
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul, ol {
+  list-style: none;
+  padding: 0;
+}
+
+button {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
+}

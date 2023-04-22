@@ -1,0 +1,88 @@
+.card-block {
+  padding: 35px 30px;
+  min-height: 800px;
+  &__btn {
+    width: 74px;
+    background-color: #00A3FF;
+    border: 1px solid #A2A3A4;
+  }
+  &__avatar-block {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    img {
+      margin-right: 25px;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+    }
+  }
+  &__name-proj {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 18px;
+    a {
+      max-width: 90%;
+    }
+    button {
+      transition: transform .5s;
+    }
+    button:hover {
+      transform: rotate(90deg);
+    }
+  }
+  &__stars-and-watchers {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    img {
+      margin-right: 18px;
+    }
+  }
+  &__stars-block {
+    margin-right: 20px;
+  }
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    li {
+      position: relative;
+      margin-bottom: 25px;
+      width: calc((100% - 25px * 2) / 3);
+    }
+    li:not(:nth-child(3n)) {
+      margin-right: 25px;
+    }
+  }
+  &__field-comment {
+    padding: 5px;
+    margin-bottom: 10px;
+    min-height: 50px;
+    border: 3px solid #40cfff;
+  }
+  &__field-editing {
+    display: flex;
+    align-items: center;
+    input {
+      width: 80%;
+      min-height: 54px;
+      padding: 10px;
+    }
+    button {
+      width: 20%;
+      min-height: 54px;
+    }
+  }
+}
+
+.card {
+  padding: 10px;
+}
+
+.spinner {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+}
+
