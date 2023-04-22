@@ -1,7 +1,6 @@
 # Mini Info-Github
 
-Этот проект создан с помощью [Create React App](https://github.
-com/facebook/create-react-app).
+Этот проект создан с помощью [Create React App](https://github.com/facebook/create-react-app).
 
 ## Задача
 
